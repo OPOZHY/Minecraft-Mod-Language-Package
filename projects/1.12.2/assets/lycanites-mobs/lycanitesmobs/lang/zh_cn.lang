@@ -1593,7 +1593,7 @@ item.devilstarcharge.name=恶魔之心球
 item.devilstarcharge.description=用于发射一种小型的恶魔之心，也可从发射器发射。
 #
 # ========================================================================
-item.equipmentpart.description=这个物品可用于使用装备锻造台创造功能强大的装备，也可将其制作为有用的资源。item.woodenrod.name=木棒
+item.equipmentpart.description=这个物品可用于使用装备锻造台创造功能强大的装备，也可将其制作为有用的资源。
 #
 item.ironrod.name=铁棒
 item.ironhilt.name=铁护手
